@@ -1,0 +1,14 @@
+1. Start a command prompt:
+	Start > run > cmd
+
+2. Navigate to the directory containing imageSplit.bat
+	cd my\directory\with\stuff\
+
+3. Run imageSplit.bat, supplying as an argument the directory containing your image files
+	imageSplit.bat S:\my\directory\with\a\bunch\of\tifss
+
+4. Wait (it will take about 2 minutes per tiff)
+
+Express command:
+	Start > run > cmd
+	my\directory\with\stuff\imageSplit.bat S:\my\directory\with\a\bunch\of\tiffs
